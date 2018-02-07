@@ -6,3 +6,6 @@ print("Hello, Worljjjd!");
 print("kkq");
 
 
+print("Hello my dear friend");
+
+
